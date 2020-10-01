@@ -1,0 +1,65 @@
+                                                                                                                            @font-face {
+                                                                                                        font-farnily: 'poller oneregular';
+                                                                                                        src: url(' .. /fonts/pollerone/pollerone-webfont.eot');
+                                                                                                        src: url (' .. /fonts/pollerone/pollerone-weЬfont. eot ?#iefix') format('emЬedded-opentype'), url(' .. /fonts/pollerone/pollerone-weЬfont.woff') format('woff'), url(' .. /fonts/pollerone/pollerone-weЬfont.ttf') format('truetype'), url(' .. /fonts/pollerone/pollerone-weЬfont.svg#poller_oneregular') format ( 'svg');
+                                                                                                    }
+                                                                                                    
+                                                                                                    @font-face {
+                                                                                                        font-farnily: 'leckerli oneregular';
+                                                                                                        src: url(' .. /fonts/leckerlione/leckerlione-regular-weЬfont.eot');
+                                                                                                        src: url(' .. /fonts/leckerlione/leckerlione-regular-weЬfont.
+ eot?#iefix') format ( 'emЬedded-opentype'),
+ url(' .. /fonts/leckerlione/leckerlione-regular-weЬfont.woff') format ( 'woff'), url(' .. /fonts/leckerlione/leckerlione-regular-weЬfont.ttf') format ( 'truetype'), url(' .. /fonts/leckerlione/leckerlione-regular-weЬfont.
+ svg#leckerli_oneregular') format('svg');
+
+                                                                                                    }
+                                                                                                    
+                                                                                                    body р {
+                                                                                                        background: #fff;
+                                                                                                        font-family: Arial, Helvetica, sans-serif;
+                                                                                                        font-size: 14рх;
+                                                                                                        font-weight: normal;
+                                                                                                        line-height: 1;
+                                                                                                        margin: О;
+                                                                                                        min-width: 960рх;
+                                                                                                        padding: О;
+                                                                                                        color: #252525;
+                                                                                                        line-height: 24рх;
+                                                                                                        rnargin: О;
+                                                                                                        padding: О;
+                                                                                                    }
+                                                                                                    
+                                                                                                    р а {
+                                                                                                        color: #252525;
+                                                                                                        text-decoration: underline;
+                                                                                                        р a:hover {
+                                                                                                            color: #898989;
+                                                                                                            #header {
+                                                                                                                rnargin: О auto;
+                                                                                                                padding: 44рх О 50рх;
+                                                                                                                text-align: center;
+                                                                                                                width: 960рх;
+                                                                                                                #header a.logo {
+                                                                                                                    display: Ыосk;
+                                                                                                                    rnargin: О auto;
+                                                                                                                    padding: О;
+                                                                                                                    width: 340рх;
+                                                                                                                    #header a.logo irng border: О;
+                                                                                                                    display: Ыосk;
+                                                                                                                    rnargin: О;
+                                                                                                                    padding: О;
+                                                                                                                    #header ul rnargin: О;
+                                                                                                                    padding: 56рх О О;
+                                                                                                                    #header ul li {
+                                                                                                                        display: inline;
+                                                                                                                        list-style: none;
+                                                                                                                        rnargin: О;
+                                                                                                                        padding: О 19рх;
+                                                                                                                        #header ul li а {
+                                                                                                                            color: #252525;
+                                                                                                                            display: inline-Ыock;
+                                                                                                                            ГЛАВА 1. Простои сайт без JavaScript font-farnily: "Arial Black", Gadget, sans-serif;
+                                                                                                                            font-size: 14рх;
+                                                                                                                            font-weight: norrnal;
+                                                                                                                            rnargin: О;
+                                                                                                                            padding: О О Зрх;
